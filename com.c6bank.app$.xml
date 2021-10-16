@@ -1,0 +1,8 @@
+<rules>
+  <service block="true" log="false">
+    <component-filter name="com.c6bank.app/hj.᫔" />
+  </service>
+  <activity block="true" log="false">
+    <component-filter name="com.c6bank.app/com.c6bank.android.fraud.device.refuse.DeviceRefusedActivity" />
+  </activity>
+</rules>
