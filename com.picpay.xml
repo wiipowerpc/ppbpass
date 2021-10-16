@@ -1,5 +1,6 @@
 <rules>
 <activity block="true" log="false">
   <component-filter name="com.picpay/o.getECCodewords"/>
+  <component-filter name="com.picpay/o.getCountry"/>
 </activity>
 </rules>
