@@ -1,5 +1,6 @@
 <rules>
   <service block="true" log="false">
     <component-filter name="com.c6bank.app/hj.᫔" />
+    <component-filter name="com.c6bank.app/hj.XR" />
   </service>
 </rules>
